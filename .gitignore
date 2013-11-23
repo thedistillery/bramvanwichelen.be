@@ -1,7 +1,8 @@
-*.mov
+≈*.mov
 .DS_Store
 *.zip
 *.gz
 log/*.log
 log/*.log.[0-9]
 assets/*.psd
+pic.html
